@@ -18,7 +18,7 @@
                 </div>
             </div>
             <div class="inner-homeabout-container-right">
-                <img class="responsive-image" src="@/assets/images/73243-happy-students-studying1.png" alt="happy students studying">
+                <img class="responsive-image" width="484" height="328" src="@/assets/images/73243-happy-students-studying1.png" alt="happy students studying">
             </div>
         </div>
       </div>
@@ -60,6 +60,7 @@
         color: #0086AE;
     }
     .second{
+        margin-top: 30px;
         padding: 1% 0%;
     }
     .second p {
@@ -87,7 +88,6 @@
         justify-content: center;
         align-items: flex-end;
         width: 40%;
-        background-color:blueviolet;
     }
     .responsive-image {
         
