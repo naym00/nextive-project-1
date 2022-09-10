@@ -81,7 +81,7 @@
     .inner-categorylist-container-down-80{
         display: flex;
         flex-wrap: wrap;
-        width: 80%;
+        width: 85%;
     }
     .inner-categorylist-container-down-80 div{
         display: flex;
